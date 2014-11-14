@@ -3,6 +3,12 @@ webdesign111414
 
 Classroom assignment for Friday, November 14, 2014
 
+
+
+OBJECTIVE: SWBAT add CSS styles to a pre-written website
+           SWBAT identify when a CSS "class" is being used
+           SWBAT use online resources to find and properly utilize common style declarations
+
 Your task for today:
 You have a fully written website for our web design company, which is index.html in this repository. Experiment with adding styles to the various elements on the page.
 
