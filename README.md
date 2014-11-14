@@ -17,3 +17,5 @@ To see this in action, look at em.phone in our style sheet. That sets the style 
 The second new concept is that <a> has a few different selectors. a:link sets the style for a normal link. a:visited sets the style for a visited link. a:hover sets the style for when our mouse is hovering over the link.
 
 When you are done, commit your changes to the repository as a pull request! 
+
+If you need to obtain CSS styles for each, go to w3schools.com/css. You can also use the information you gathered for your worksheet on Wednesday/Thursday.
