@@ -4,7 +4,7 @@ webdesign111414
 Classroom assignment for Friday, November 14, 2014
 
 Your task for today:
-You have a fully written website for our web design company. Experiment with adding styles to the various elements on the page.
+You have a fully written website for our web design company, which is index.html in this repository. Experiment with adding styles to the various elements on the page.
 
 At the top of the page you will notice an internal stylesheet. This includes all the styles for the various elements, such as strong, em, and body. Add in declarations to each of these styles. Remember:
 - Your properties and values should be separated by a colon
